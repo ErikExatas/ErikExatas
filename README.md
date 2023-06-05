@@ -8,7 +8,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikgustavoo/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-gustavo-oliveira-71034a204/)
 
-### Linguagens/ Languages
+### Linguagens de Programação/ Programming Languages
 <br>
 <div >
     <img align='center' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
