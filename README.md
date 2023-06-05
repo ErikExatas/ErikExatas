@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Erik Gustavo/ Hi There! I'm Erik Gustavo
 <br>
 
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikExatas&show_icons=true&theme=dark)
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikExatas&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikExatas&layout=compact)](https://github.com/ErikExatas/github-readme-stats)
 
 ### Redes Sociais/ Social Media
 <br>
